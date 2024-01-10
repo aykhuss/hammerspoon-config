@@ -1,0 +1,5 @@
+#+TITLE: Hammerspoon Configuration & Scripts
+#+AUTHOR: Alexander Huss
+
+[[http://www.hammerspoon.org/][Hammerspoon]] is a fork of [[https://github.com/mjolnirapp/mjolnir][Mjolnir]] and is an *extremely* neat automation tool for macOS.
+This repository collects "spoons" and other scripts as well as my configuration that helps me be productive.
